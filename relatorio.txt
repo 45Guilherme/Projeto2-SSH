@@ -1,0 +1,7 @@
+
+Relatório de Teste
+-----------------
+agora = datetime.datetime.now()
+Data e Hora do Teste: {agora:%d/%m/%Y %H:%M:%S}
+Status: Sucesso
+Observações: Todos os testes foram concluídos corretamente.
