@@ -1,0 +1,5 @@
+Nov 12 14:33:01 server sshd[1201]: Failed password for root from 177.233.10.45 port 445 ssh2  # 120 tentativas totais
+Nov 12 15:12:44 server sshd[982]:  Accepted password for root from 201.55.18.10 port 55874 ssh2  # 87 tentativas totais
+Nov 12 16:09:22 server sshd[774]: Invalid user for admin from 185.12.245.90 port 2231 ssh2  # 45 tentativas totais
+Nov 12 17:42:55 server sshd[555]: Failed password for root from 3.3.3.3 port 1022 ssh2  # 30 tentativas totais
+Nov 12 18:05:10 server sshd[331]: Failed password for invalid user test from 1.1.1.1 port 7781 ssh2  # 10 tentativas totais
